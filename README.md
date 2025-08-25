@@ -58,7 +58,7 @@
 
 ### 🌍 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-sadab-manjar" target="_blank">
+  <a href="https://www.linkedin.com/in/md-sadab-manjar-a047aa231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mdsadabmanjar786@gmail.com">
