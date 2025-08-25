@@ -22,22 +22,22 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,github,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadabmanjar&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadabmanjar&layout=compact&theme=radical" height="180em" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sadabmanjar&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -58,10 +58,10 @@
 
 ### 🌍 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/md-sadab-manjar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:mdsadabmanjar786@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
